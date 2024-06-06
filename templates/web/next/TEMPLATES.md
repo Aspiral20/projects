@@ -1,3 +1,11 @@
 ## Minimal
-![project image](./minimal/public/project.png "Project Image")
-## Hostily
+
+Demo: https://minimals.cc/
+
+## Upwind
+
+Demo: https://shreethemes.in/upwind_next/?storefront=envato-elements
+
+## Rogan
+
+Demo: https://rogan.vercel.app/
