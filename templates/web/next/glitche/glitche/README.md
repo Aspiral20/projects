@@ -1,0 +1,6 @@
+# Technologies
+
+- NextJS
+- Css
+
+---
