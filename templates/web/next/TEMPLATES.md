@@ -64,7 +64,7 @@ Demo: https://shreethemes.in/ovaxo_next
 
 ## Nuron
 
-Demo: https://shreethemes.in/ovaxo_next
+Demo: https://rainbowit.net/splash/react/nuron/index.html
 
 ## Euildint
 
@@ -85,3 +85,23 @@ Demo: https://tunatheme.com/tf/nextjs/quarter/preview/
 ## Glitche
 
 Demo: https://glitche-react.vercel.app/
+
+## Nafiab
+
+Demo: https://nafiab-next.vercel.app/
+
+## BioxLab
+
+Demo: https://html.hixstudio.net/bioxlab-react-prev/
+
+## FixTurbo
+
+Demo: https://fixturbonext.wowtheme7.com/
+
+## Piloz
+
+Demo: https://piloz-react.vercel.app/
+
+## Mortal(Copyrighting)
+
+Demo: https://shreethemes.in/mortal_next/
