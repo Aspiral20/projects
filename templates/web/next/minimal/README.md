@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Technologies
 
 - NextJS
@@ -5,6 +6,11 @@
 - MaterialUI
 
 ---
+=======
+![project image](./public/project.png "Project Image")
+
+Demo: [minimal.cc](https://minimals.cc/)
+>>>>>>> Stashed changes
 
 ## NODE.JS
 
@@ -19,3 +25,4 @@
 
 - npm i OR npm i --legacy-peer-deps
 - npm run dev
+
